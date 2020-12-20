@@ -1,0 +1,7 @@
+# Java1
+Isit
+public class Main{
+     public static void main(String rj[]){
+          println("Java");
+     }
+}
